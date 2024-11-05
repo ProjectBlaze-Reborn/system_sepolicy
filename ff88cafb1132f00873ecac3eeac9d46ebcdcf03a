@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fd870533_ef2f9536",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2024-11-05T22:26:40Z",
+      "side": 1,
+      "message": "Looks like AOSP is being obstinate as usual. Letting someone else get to merging it, but no point in waiting on never to come lol",
+      "revId": "ff88cafb1132f00873ecac3eeac9d46ebcdcf03a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
